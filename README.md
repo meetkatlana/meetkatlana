@@ -12,8 +12,8 @@ Hello! I am a **CSE Core student** with a deep passion for **frontend developmen
 - 📱 **Responsive Design** – Ensuring seamless experiences across devices.
 
 ### 🛠️ Tech Stack
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** Tailwind CSS, Bootstrap, GSAP (Learning in Progress)
+- **Languages:** HTML, CSS, JavaScript, C, C++, Python, Java(Main Domain)
+- **Frameworks & Libraries:**  Bootstrap, GSAP (Learning in Progress)
 - **Tools & Platforms:** VS Code, GitHub
 
 ### 📊 GitHub Stats
