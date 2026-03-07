@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meet Katlana</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meetkatlana&label=Profile%20views&color=0e75b6&style=flat" alt="meetkatlana" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetkatlana" alt="meetkatlana" /></a> </p> -->
-
 - 🔭 I’m currently working on **Movie System**
 
 - 💬 Ask me about **Java**
