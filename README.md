@@ -1,19 +1,48 @@
-<h1 align="center">Hi 👋, I'm Meet Katlana</h1>
-<h3 align="center">A passionate Backend developer</h3>
 
-- 🔭 I’m currently working on **Movie System**
+<div align="center">
+  <h1>Hi ⚡, I'm Meet Katlana</h1>
+  <p>A Passionate Backend Developer.</p>
+</div>
 
-- 💬 Ask me about **Java**
+<div align="center">
 
-- 📫 How to reach me **meetkatlana7@gmail.com**
+  <h2>📜 Developer's Log</h2>
 
-<h3 align="left">Connect with me:</h3>
+  <table align="center">
+    <tr>
+      <td align="center">🔭 <b>Current Project</b></td>
+      <td align="center">⚡ <b>Main Skills</b></td>
+      <td align="center">📬 <b>Contact Me</b></td>
+    </tr>
+    <tr>
+      <td align="center">Working on <b>Movie System</b></td>
+      <td align="center">Java & Backend Design</td>
+      <td align="center"><a href="mailto:meetkatlana7@gmail.com">Send an Email</a></td>
+    </tr>
+  </table>
+  <br />
+</div>
+  
+  <p align="center">
+    <i>"Turning coffee into code and logic into magic."</i>
+  </p>
+
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/meetkatlana28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meetkatlana28" height="30" width="40" /></a>
-<a href="https://medium.com/@meetkatlana7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@meetkatlana7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/qvlnimgccp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/qvlnimgccp" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/meetkatlana28" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+  </a>
+  <a href="https://medium.com/@meetkatlana7" target="_blank">
+    <img src="https://skillicons.dev/icons?i=medium" height="40" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/u/qvlnimgccp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40" width="40" />
+  </a>
+  <a href="mailto:meetkatlana7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
+  </a>
 </p>
-
+</div>
 
 
 
@@ -27,6 +56,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,react,html,css&perline=3" />
+    <img src="https://skillicons.dev/icons?i=java,js,react,html,css&theme=dark" />	
   </a>
 </p>
