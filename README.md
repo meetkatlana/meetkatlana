@@ -26,14 +26,20 @@
   <p align="center">
     <i>"Turning coffee into code and logic into magic."</i>
   </p>
+<h3>🤝 Connect with me</h3>
 
-</div>
+<p>
+  <a href="https://linkedin.com/in/meetkatlana28">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/meetkatlana28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meetkatlana28" height="30" width="40" /></a>
-<a href="https://medium.com/@meetkatlana7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@meetkatlana7" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/meetkatlana28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="/u/meetkatlana28/" height="30" width="40" /></a>
+  <a href="https://medium.com/@meetkatlana7">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/meetkatlana28/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
+  </a>
 </p>
 
 
