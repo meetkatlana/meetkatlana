@@ -15,7 +15,7 @@
       <td align="center">📬 <b>Contact Me</b></td>
     </tr>
     <tr>
-      <td align="center">Working on <b>Movie System</b></td>
+      <td align="center">Working on <b>Portfolio</b></td>
       <td align="center">Java & Backend Design</td>
       <td align="center"><a href="mailto:meetkatlana7@gmail.com">Send an Email</a></td>
     </tr>
