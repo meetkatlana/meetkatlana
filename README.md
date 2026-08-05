@@ -46,9 +46,9 @@
 
 
 ## 🔥 Streak Stats
-<p align="center">
+<!-- <p align="center">
 	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=meetkatlana&theme=tokyonight-duo" alt="GitHub Streak" /></a>
-</p>
+</p> -->
 
 <h3 align="center">⚡ Tech Stack</h3>
 
