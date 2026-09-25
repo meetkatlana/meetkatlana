@@ -81,7 +81,8 @@ I enjoy building backend applications, working with REST APIs, learning Spring B
 
 ---
 
-# 🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -89,23 +90,34 @@ I enjoy building backend applications, working with REST APIs, learning Spring B
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js" />
 </p>
 
+### 🌐 Web
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
+<img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
-### 🗄️ Databases
+**Spring Boot • REST APIs**
+
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql," />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Tools & Technologies
+**SQL • MySQL**
+
+### 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
 </p>
+
 
 ---
 
