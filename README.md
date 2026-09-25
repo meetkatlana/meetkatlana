@@ -108,33 +108,33 @@ DSA • Spring Boot
 
 ---
 
-# 🚕 Currently Working On
+## 🚕 Currently Working On
 
 <div align="center">
 
-## Ride-Hailing Platform
+### Ride-Hailing Platform
 
-A backend platform inspired by Uber, Ola and Rapido.
+**A Java backend project for ride booking, driver management and real-time ride updates.**
 
 </div>
 
-### 🔥 Architecture & Technologies
+### 🎯 Current Focus
 
-```text
-Java 21
-   │
-   ├── Spring Boot
-   │
-   ├── Microservices
-   │
-   ├── PostgreSQL / PostGIS
-   │
-   ├── Redis
-   │
-   ├── Kafka
-   │
-   ├── WebSocket
-   │
-   ├── Docker
-   │
-   └── AWS
+- 🚗 Rider & driver management
+- 📍 Ride booking & location handling
+- 🔐 Authentication & authorization
+- 🔄 Ride status & API integration
+- 🗄️ SQL database integration
+- 🌱 Learning Spring Boot through real-world implementation
+
+</div>
+
+## 📚 Currently Learning
+
+<div align="center">
+
+| 🌱 Spring Boot | 🤖 AI / GenAI | 🧠 DSA |
+|:---:|:---:|:---:|
+| Backend Development | AI Fundamentals | Problem Solving |
+
+</div>
