@@ -99,10 +99,9 @@ I enjoy building backend applications, working with REST APIs, learning Spring B
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
 </p>
 
-**Spring Boot • REST APIs**
 
 ### 🗄️ Database
 
@@ -110,7 +109,6 @@ I enjoy building backend applications, working with REST APIs, learning Spring B
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-**SQL • MySQL**
 
 ### 🧰 Tools
 
