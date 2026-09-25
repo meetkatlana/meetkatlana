@@ -41,38 +41,39 @@ while learning scalable backend architecture.
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%" valign="top">
 
-I'm a Computer Science & Engineering student focused on
-becoming a strong Java Backend Developer.
+I'm a **Computer Science & Engineering student** focused on becoming a strong **Java Backend Developer**.
 
-I enjoy building backend applications, working with REST APIs,
-learning Spring Boot, exploring AI, and solving DSA problems.
+I enjoy building backend applications, working with REST APIs, learning Spring Boot, exploring AI/GenAI, and solving DSA problems.
 
-• ☕ Java Backend Development
-• 🌱 Spring Boot
-• 🗄️ SQL
-• 🔗 REST APIs
-• 🧠 DSA & Problem Solving
-• 🤖 AI / GenAI
+### 💡 What I Focus On
+
+- ☕ Java Backend Development
+- 🌱 Spring Boot
+- 🔗 REST API Development
+- 🗄️ SQL
+- 🧠 DSA & Problem Solving
+- 🤖 AI / GenAI
+
 </td>
 
-<td width="45%">
 
-🎯 Career Focus
-Java Backend Developer
+<td width="40%" valign="top">
 
-💻 Current Focus
-Java • Spring Boot • SQL
+### 🎯 Career Focus
 
-🧠 Problem Solving
-200+ LeetCode Problems
+**Java Backend Developer**
 
-🤖 Exploring
-AI / GenAI
+### 💻 Current Focus
 
-📚 Learning
-DSA • Spring Boot
+`Java` · `Spring Boot` · `SQL`
+
+### 🧠 Problem Solving
+
+**200+ LeetCode Problems**
+
+</td>
 
 </td>
 </tr>
