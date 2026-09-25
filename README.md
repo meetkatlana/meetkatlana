@@ -9,23 +9,27 @@
 <h3>⚡ Java Backend Developer</h3>
 
 <p>
-Building backend applications, REST APIs and scalable systems
-with <b>Java, Spring Boot and PostgreSQL.</b>
+Building backend applications and REST APIs with Java and Spring Boot,
+while learning scalable backend architecture.
 </p>
 
 <br>
 
+<div align="center">
+
 <a href="https://linkedin.com/in/meetkatlana28">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/meetkatlana28/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <a href="mailto:meetkatlana7@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+</div>
 
 </div>
 
@@ -39,36 +43,36 @@ with <b>Java, Spring Boot and PostgreSQL.</b>
 <tr>
 <td width="55%">
 
-I'm a **Computer Science & Engineering student** focused on becoming a strong **Java Backend Developer**.
+I'm a Computer Science & Engineering student focused on
+becoming a strong Java Backend Developer.
 
-I enjoy building backend applications, designing REST APIs, working with databases and understanding how scalable systems work.
+I enjoy building backend applications, working with REST APIs,
+learning Spring Boot, exploring AI, and solving DSA problems.
 
-- ☕ Java Backend Development
-- 🌱 Spring Boot & Spring Ecosystem
-- 🗄️ PostgreSQL & Database Design
-- 🧩 REST APIs & Backend Architecture
-- 🧠 Data Structures & Algorithms
-- 🚀 Exploring Microservices & System Design
-
+• ☕ Java Backend Development
+• 🌱 Spring Boot
+• 🗄️ SQL
+• 🔗 REST APIs
+• 🧠 DSA & Problem Solving
+• 🤖 AI / GenAI
 </td>
 
 <td width="45%">
 
-### 🎯 Career Focus
+🎯 Career Focus
+Java Backend Developer
 
-**Java Backend Developer**
+💻 Current Focus
+Java • Spring Boot • SQL
 
-### 💻 Current Focus
+🧠 Problem Solving
+200+ LeetCode Problems
 
-`Java` `Spring Boot` `PostgreSQL`
+🤖 Exploring
+AI / GenAI
 
-### 🧠 Problem Solving
-
-**160+ LeetCode Problems**
-
-### 📍 Based In
-
-**Mandsaur, India**
+📚 Learning
+DSA • Spring Boot
 
 </td>
 </tr>
@@ -93,13 +97,13 @@ I enjoy building backend applications, designing REST APIs, working with databas
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=mysql," />
 </p>
 
 ### 🔧 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws,kafka" />
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
 ---
